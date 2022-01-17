@@ -1,3 +1,4 @@
-# TailwindCSS V2 Jit Mode Template 
-Run : <code>npm run watch</code> <br>
-That's it, now you can start your project by making changes in index.html
+# It was created with thegetninja's help.
+When you make a change, you need to type <code> npm run watch </code> in the terminal
+### Educator : thegetninja
+ It was a great exercise with a TailwindCSS. 
